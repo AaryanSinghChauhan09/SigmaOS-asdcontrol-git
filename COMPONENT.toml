@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-asdcontrol-git"
-description = "SigmaOS subsystem component for asdcontrol-git"
+description = "ASD control via git-tracked config"
 version = "0.1.0"
 tier = 5
 
